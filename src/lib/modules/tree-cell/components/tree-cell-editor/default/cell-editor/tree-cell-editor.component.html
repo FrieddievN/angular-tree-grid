@@ -1,4 +1,7 @@
-<input type="text" 
+<input type="text"
+    nbInput
+    fieldSize="small"
+    status="primary"
     [(ngModel)]="row_data[column.name]" 
     [ngClass]="{'cell-default': true, 'expandable-editor': expandable_column}"
     (click)="cellclick.emit($event)"
