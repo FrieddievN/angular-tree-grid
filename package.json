@@ -3,6 +3,7 @@
   "version": "2.7.6",
   "homepage": "https://github.com/debabratapatra/angular-tree-grid#readme",
   "license" : "MIT",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "peerDependencies": {
     "@angular/common": "^7.0.0",
     "@angular/core": "^7.0.0"
