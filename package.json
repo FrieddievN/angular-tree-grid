@@ -15,10 +15,10 @@
   },
   "repository": {
     "type" : "git",
-    "url" : "https://github.com/debabratapatra/angular-tree-grid.git"
+    "url" : "https://github.com/FreddievN/angular-tree-grid.git"
   },
   "bugs": {
-    "url" : "https://github.com/debabratapatra/angular-tree-grid/issues",
+    "url" : "https://github.com/FreddievN/angular-tree-grid/issues",
     "email" : "debabratapatra12@gmail.com"
   },
   "keywords": ["Angular", "Tree View", "Tree", "Grid", "Angular Tree view", 
